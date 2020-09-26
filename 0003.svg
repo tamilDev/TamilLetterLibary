@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500" height="500" version="1.1" viewBox="0 0 132.29 132.29" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g display="none" font-family="sans-serif" font-size="19.05px" opacity=".37028">
+  <text style="line-height:1.25;shape-inside:url(#rect832);white-space:pre" xml:space="preserve"/>
+  <text transform="matrix(7.8836 0 0 10.251 -57.353 -239.67)" stroke-width=".11124" style="line-height:1.25;shape-inside:url(#rect838);white-space:pre" xml:space="preserve"><tspan x="0" y="0"><tspan font-family="CHENETUNICODE007" stroke-width=".11124">அ</tspan></tspan></text>
+ </g>
+ <g transform="matrix(1.0139 0 0 1.0266 1.609 5.7497)" fill="none" stroke="#000">
+  <g transform="matrix(.88641 0 0 .93545 .23681 7.1557)" stroke-width="3.0345">
+   <path d="m55.239 28.002c4.7187 0.90162 11.163-0.88074 14.189 3.8069 2.1084 3.2666 4.7872 8.5038 2.1203 11.326-2.933 3.1038-6.2323 7.1498-11.104 6.2583-3.4437-0.63019-8.0979-1.4782-9.417-4.9278-2.0421-5.3402-0.97854-12.577 3.5279-15.898 4.1635-3.0686 9.4868-4.1599 14.492-4.4746 6.0267-0.37894 12.768 1.4495 16.08 6.9879 5.5753 9.3241 6.2837 20.693 5.2861 31.237-1.1685 12.351-2.3601 27.712-12.938 34.658-4.8637 3.1937-10.772 4.3545-16.354 5.7101-13.852 3.3637-29.252 1.6431-41.477-5.7149-8.0945-4.8718-15.464-12.445-17.382-22.021-0.86686-4.3261 1.5127-8.7751 5.5597-10.636 9.0797-4.1747 19.36-4.2428 29.158-4.5432 35.421 1.2612 40.353 1.1939 54.139 1.1085 26.242-0.06671 30.114 11.709 27.409 24.305-4.3159 20.101-31.485 41.904-57.304 18.087" stroke-width="3.0345"/>
+  </g>
+  <path d="m54.506 103.76c-15.617-12.376-23.465-32.56-24.121-52.083-0.51133-15.223 3.5662-31.955 15.896-41.918 11.05-8.929 26.311-8.0574 39.459-4.7713 10.168 2.5413 19.792 8.5488 24.858 17.936 6.3607 11.787 8.4059 25.372 9.3281 38.56 1.1377 16.269 0.21241 32.623-1.6807 48.799" opacity=".997" stroke-width="2.5934"/>
+ </g>
+</svg>
